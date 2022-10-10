@@ -1,1 +1,3 @@
 # defis-150-javascript-tricks
+
+Dans cet repos je m'avanture dans la réalisation de mini exercices en javascript. Lets go...
